@@ -1,3 +1,3 @@
 # Project1-Team4
 
-test
+This is the starter repo for DU team 4 project #1
